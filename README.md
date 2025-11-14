@@ -27,7 +27,7 @@ All rights and credit belong to the original author. Please refer to the dataset
 
 - Bedrooms and square footage are strong predictors of price.
 - Waterfront properties show significantly higher prices.
-- Regression models like Linear Regression and Random Forest yield promising results.
+
 
 
 
